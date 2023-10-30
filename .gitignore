@@ -1,0 +1,27 @@
+# Arquivos de compilação
+*.o
+*.obj
+*.d
+*.gch
+*.pch
+*.i
+*.s
+*.asm
+
+# Arquivos de depuração
+*.pdb
+*.ilk
+*.exp
+*.ncb
+*.suo
+*.user
+*.opt
+*.map
+
+# Arquivos de lixo
+*.DS_Store
+*Thumbs.db
+*.tmp
+*.bak
+*.swp
+*~
